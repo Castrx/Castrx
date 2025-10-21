@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel de Castro Pinto
+# 👋 Olá, eu sou Gabriel de Castro
 
 🎯 Desenvolvedor Back-end | Java | Spring Boot | Python | Node.js
 
