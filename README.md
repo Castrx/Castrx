@@ -1,31 +1,52 @@
-# 👋 Olá, eu sou Gabriel de Castro
+# Gabriel de Castro
 
-🎯 Desenvolvedor Back-end | Java | Spring Boot | Python | Node.js
+### Desenvolvedor Back-end | Java | Spring Boot | SQL | Docker
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ULBRA)** e apaixonado por desenvolvimento de APIs e soluções escaláveis.  
-Tenho experiência em **Java, Spring Boot, Flask e Node.js**, além de boas práticas com testes, documentação e Docker.
+Estudante de Análise e Desenvolvimento de Sistemas na ULBRA, com foco em desenvolvimento back-end e construção de APIs REST.
 
----
-
-## 🚀 Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| [Task Manager Backend](https://github.com/Castrx/task-manager-backend) | API REST para gestão de tarefas com autenticação JWT e Spring Boot. | Java, Spring Boot, JWT, H2 |
-| [User API Flask](https://github.com/Castrx/user-api-flask) | API REST para gerenciamento de usuários com Flask e PostgreSQL. | Python, Flask, SQLAlchemy, JWT |
-| [Finance Manager](https://github.com/Castrx/finance-manager) | API para controle financeiro pessoal com Node.js e MongoDB. | Node.js, Express, MongoDB, JWT |
+Tenho experiência prática com Java, Spring Boot, Python, Flask, Node.js, SQL e Docker, com foco em arquitetura, segurança, testes automatizados e boas práticas de desenvolvimento.
 
 ---
 
-## 🧠 Habilidades
-- **Linguagens:** Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, Flask, Express.js  
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Ferramentas:** Docker, Git, VS Code, Postman  
-- **Metodologias:** Scrum, Kanban, Git Flow  
+## Projeto em destaque
+
+### Atlas ERP
+
+Sistema ERP desenvolvido para simular uma aplicação empresarial real, com back-end em Java/Spring Boot e front-end em React/TypeScript.
+
+Principais funcionalidades:
+
+- Autenticação e autorização com Spring Security, JWT e RBAC
+- Gestão de usuários, clientes, empresas, categorias e produtos
+- Controle de estoque e movimentações
+- Registro e cancelamento de vendas
+- Dashboard com métricas
+- Testes unitários e de integração
+- Migrations com Flyway
+- Docker e Docker Compose
+- CI com GitHub Actions
+- API REST documentada
+
+**Tecnologias:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Flyway, Docker, JUnit, Testcontainers, React e TypeScript.
+
+[Ver projeto no GitHub](https://github.com/Castrx/atlas-erp)
 
 ---
 
-📫 **Contato**
-- ✉️ [gabrielcp781@gmail.com](mailto:gabrielcp781@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-de-castro-949b79340/)  
-- 🧩 [GitHub](https://github.com/Castrx)
+## Tecnologias
+
+**Back-end:** Java, Spring Boot, Python, Flask, Node.js
+
+**Front-end:** React, TypeScript, JavaScript
+
+**Banco de dados:** PostgreSQL, MySQL, MongoDB
+
+**Ferramentas:** Docker, Git, GitHub Actions, Postman
+
+---
+
+## Contato
+
+**Email:** gabrielcp781@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/gabriel-de-castro-949b79340/
