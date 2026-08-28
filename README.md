@@ -1,52 +1,125 @@
-# Gabriel de Castro
+<h1 align="center">Gabriel de Castro</h1>
 
-### Desenvolvedor Back-end | Java | Spring Boot | SQL | Docker
+<p align="center">
+  Backend Developer | Java & Spring Boot
+</p>
 
-Estudante de Análise e Desenvolvimento de Sistemas na ULBRA, com foco em desenvolvimento back-end e construção de APIs REST.
+<p align="center">
+  APIs REST | PostgreSQL | Docker | CI/CD
+</p>
 
-Tenho experiência prática com Java, Spring Boot, Python, Flask, Node.js, SQL e Docker, com foco em arquitetura, segurança, testes automatizados e boas práticas de desenvolvimento.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-de-castro-949b79340/">
+    LinkedIn
+  </a>
+  •
+  <a href="https://github.com/Castrx">
+    GitHub
+  </a>
+</p>
 
 ---
 
-## Projeto em destaque
+## About Me
+
+I'm a Systems Analysis and Development student focused on Backend Development.
+
+My main experience is with Java and Spring Boot, developing REST APIs,
+authentication systems, database integrations and business applications.
+
+I also have experience with Python, Flask, React, TypeScript, PostgreSQL,
+Docker and CI/CD.
+
+Currently, I'm focused on improving my knowledge of software architecture,
+automated testing, scalable APIs and backend development.
+
+---
+
+## Technologies
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,cs,dotnet,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea" />
+</p>
+
+---
+
+## Featured Projects
 
 ### Atlas ERP
 
-Sistema ERP desenvolvido para simular uma aplicação empresarial real, com back-end em Java/Spring Boot e front-end em React/TypeScript.
+SaaS ERP system developed with Java, Spring Boot and React.
 
-Principais funcionalidades:
+Features include authentication, RBAC, product management, inventory,
+sales management, automated tests, Docker and CI/CD.
 
-- Autenticação e autorização com Spring Security, JWT e RBAC
-- Gestão de usuários, clientes, empresas, categorias e produtos
-- Controle de estoque e movimentações
-- Registro e cancelamento de vendas
-- Dashboard com métricas
-- Testes unitários e de integração
-- Migrations com Flyway
-- Docker e Docker Compose
-- CI com GitHub Actions
-- API REST documentada
-
-**Tecnologias:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Flyway, Docker, JUnit, Testcontainers, React e TypeScript.
-
-[Ver projeto no GitHub](https://github.com/Castrx/atlas-erp)
+[View Repository](https://github.com/Castrx/atlas-erp)
 
 ---
 
-## Tecnologias
+### Atlas AI
 
-**Back-end:** Java, Spring Boot, Python, Flask, Node.js
+Application focused on Artificial Intelligence integrations,
+developed with TypeScript.
 
-**Front-end:** React, TypeScript, JavaScript
-
-**Banco de dados:** PostgreSQL, MySQL, MongoDB
-
-**Ferramentas:** Docker, Git, GitHub Actions, Postman
+[View Repository](https://github.com/Castrx/atlas-ai)
 
 ---
 
-## Contato
+### User API Flask
 
-**Email:** gabrielcp781@gmail.com
+REST API developed with Python and Flask, including database integration
+and containerized development environment.
 
-**LinkedIn:** https://www.linkedin.com/in/gabriel-de-castro-949b79340/
+[View Repository](https://github.com/Castrx/user-api-flask)
+
+---
+
+### Krema Tabacaria
+
+Freelance web development project developed for a real business.
+
+[View Repository](https://github.com/Castrx/krema-tabacaria)
+
+---
+
+## Currently Learning
+
+- Java
+- Spring Boot
+- Software Architecture
+- REST APIs
+- PostgreSQL
+- Docker
+- CI/CD
+- Automated Testing
+- Artificial Intelligence
+
+---
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/gabriel-de-castro-949b79340/
+
+GitHub:
+https://github.com/Castrx
